@@ -11,4 +11,8 @@ public class Operations {
     public int  Total(int m ,int n){
         return m+n;
     }
+    public int  multiply(int m ,int n){
+        return m*n;
+    }
+
 }
