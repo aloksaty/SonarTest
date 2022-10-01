@@ -1,12 +1,14 @@
-package com.alok.Demo;
+package com.alok.action;
 
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
 
-public class TestInterviewClass {
+import com.alok.Demo.InterviewClass;
+import org.testng.Assert;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class testviewClass {
     InterviewClass interviewClass;
-    @Before
+    @BeforeClass
     public void init(){
         interviewClass = new InterviewClass();
     }

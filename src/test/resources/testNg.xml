@@ -2,9 +2,9 @@
 <suite name="MyTest" verbose="1" parallel="tests" thread-count="1">
 
     <test name="Operations">
-        <classes>
-            <class name="com.alok.action.TestOperations"/>
-        </classes>
+        <packages>
+          <package  name="com.alok.action" />
+        </packages>
     </test>
 
 </suite>
