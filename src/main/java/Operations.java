@@ -8,13 +8,13 @@ public class Operations {
     public int  sum(int x ,int y){
         return x+y;
     }
-    public int  Total(int m ,int n){
+    public int  total(int m ,int n){
         return m+n;
     }
     public int  multiply(int m ,int n){
         return m*n;
     }
-    public int  Substract(int m ,int n){
+    public int  substract(int m ,int n){
         return m-n;
     }
 
