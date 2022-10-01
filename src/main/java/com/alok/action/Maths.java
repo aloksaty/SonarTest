@@ -7,5 +7,4 @@ public class Maths {
     public int  total(int a ,int b){
         return a+b;
     }
-
 }
