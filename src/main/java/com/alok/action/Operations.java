@@ -8,6 +8,7 @@ public class Operations {
         return a+b;
     }
     public int  sum(int x ,int y){
+        int z=x+y;
         return x+y;
     }
     public int  total(int m ,int n){
