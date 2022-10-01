@@ -14,5 +14,8 @@ public class Operations {
     public int  multiply(int m ,int n){
         return m*n;
     }
+    public int  Substract(int m ,int n){
+        return m-n;
+    }
 
 }
