@@ -10,5 +10,6 @@ package com.alok.Demo;
 public class TestSonar {
     public static void main (String[] args) {
         System.out.println ("Test this PR");
+        System.out.println ("Test this PR");
     }
 }
