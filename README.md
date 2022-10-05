@@ -11,4 +11,3 @@
 
 ![Figure-1-Standard-development-process-with-SonarQube](https://user-images.githubusercontent.com/45796908/194116675-7189fcc6-ef42-426c-a7cf-f316a99520bc.jpg)
 
-
