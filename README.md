@@ -9,6 +9,6 @@
 * see your PR's Quality Gate status in the SonarQube UI.
 * automatically decorate your PRs with SonarQube issues in your SCM provider's interface.
 
+![Figure-1-Standard-development-process-with-SonarQube](https://user-images.githubusercontent.com/45796908/194116675-7189fcc6-ef42-426c-a7cf-f316a99520bc.jpg)
 
-![SanarQube](https://user-images.githubusercontent.com/45796908/194114792-8918022a-738d-4fb2-ace0-33d11869b398.png)
 
