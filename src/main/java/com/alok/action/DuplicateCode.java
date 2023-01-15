@@ -19,4 +19,7 @@ public class DuplicateCode {
     public void doSomeTestTwo() {
         System.out.println("Do Test");
     }
+    public void doSomeTestMaster() {
+        System.out.println("Do Test master");
+    }
 }
