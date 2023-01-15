@@ -16,4 +16,7 @@ public class DuplicateCode {
     public void doSomeTest() {
         System.out.println("Do Test");
     }
+    public void doSomeTestTwo() {
+        System.out.println("Do Test");
+    }
 }
