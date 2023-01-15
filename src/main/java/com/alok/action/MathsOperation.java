@@ -13,4 +13,7 @@ public class MathsOperation {
     public void SomeTestMaster() {
         System.out.println("Do Test master");
     }
+    public void SomeWorkingDir() {
+        System.out.println("Working Dir");
+    }
 }
