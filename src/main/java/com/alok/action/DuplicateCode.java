@@ -13,4 +13,7 @@ public class DuplicateCode {
     public void doSomeThing() {
         System.out.println("Do some thing");
     }
+    public void doSomeTest() {
+        System.out.println("Do Test");
+    }
 }
