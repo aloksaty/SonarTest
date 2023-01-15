@@ -34,5 +34,7 @@ public class Operations {
         System.out.println(new Operations().multiply(19,13));
         System.out.println(new Operations().multiply(29,13));
         System.out.println(new Operations().multiply(40,13));
+        System.out.println(new Operations().multiply(29,13));
+        System.out.println(new Operations().multiply(50,13));
     }
 }

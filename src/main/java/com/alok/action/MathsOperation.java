@@ -16,4 +16,7 @@ public class MathsOperation {
     public void SomeWorkingDir() {
         System.out.println("Working Dir");
     }
+    public void SomeMaster() {
+        System.out.println("master Branch");
+    }
 }

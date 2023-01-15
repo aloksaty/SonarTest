@@ -31,4 +31,7 @@ public class DuplicateCode {
     public void TestWorkingDir() {
         System.out.println("Working Dir");
     }
+    public void TestMaster() {
+        System.out.println("Test master");
+    }
 }
