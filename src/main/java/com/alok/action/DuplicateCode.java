@@ -19,13 +19,10 @@ public class DuplicateCode {
     public void doSomeTestTwo() {
         System.out.println("Do Test");
     }
-    public void doSomeTestOne() {
-        System.out.println("Do Test");
-    }
-    public void doSomeTestWorking() {
-        System.out.println("Do Working");
-    }
     public void doSomeTestMaster() {
+        System.out.println("Do Test master");
+    }
+    public void thisTodDoSomeTestWorking() {
         System.out.println("Do Test master");
     }
 }
