@@ -10,4 +10,7 @@ public class MathsOperation {
     public void thisWorkingFir() {
         System.out.println("Do Test master");
     }
+    public void SomeTestMaster() {
+        System.out.println("Do Test master");
+    }
 }
