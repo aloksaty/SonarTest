@@ -22,4 +22,7 @@ public class DuplicateCode {
     public void doSomeTestMaster() {
         System.out.println("Do Test master");
     }
+    public void ThisToDoSomeTestMaster() {
+        System.out.println("Do Test master");
+    }
 }
