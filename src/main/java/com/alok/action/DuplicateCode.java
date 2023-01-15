@@ -22,4 +22,7 @@ public class DuplicateCode {
     public void doSomeTestOne() {
         System.out.println("Do Test");
     }
+    public void doSomeTestWorking() {
+        System.out.println("Do Working");
+    }
 }
