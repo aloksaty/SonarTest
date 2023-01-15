@@ -25,4 +25,7 @@ public class DuplicateCode {
     public void ThisToDoSomeTestMaster() {
         System.out.println("Do Test master");
     }
+    public void TestMaster() {
+        System.out.println("Test master");
+    }
 }
