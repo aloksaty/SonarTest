@@ -7,11 +7,17 @@ public class DuplicateCode {
         return CODE;
     }
     public String getName() {  // Noncompliant
+        System.out.println("mergeBranchcode");
+        System.out.println("mergeBranchcode");
+        System.out.println("mergeBranchcode");
         doSomeThing();
         System.out.println("code from other branch");
         System.out.println("code from other branch");
         System.out.println("code from other branch");
         doSomeThing();
+        System.out.println("code from master");
+        System.out.println("code from master");
+        System.out.println("code from master");
         System.out.println("code from master");
         return CODE;
     }
