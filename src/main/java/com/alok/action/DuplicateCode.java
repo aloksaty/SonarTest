@@ -8,6 +8,7 @@ public class DuplicateCode {
     }
     public String getName() {  // Noncompliant
         doSomeThing();
+        System.out.println("code from master");
         return CODE;
     }
     public void doSomeThing() {
