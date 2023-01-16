@@ -27,6 +27,10 @@ public class Operations {
         System.out.println(new Operations().add(12,13));
         System.out.println(new Operations().multiply(12,13));
         System.out.println(new Operations().multiply(14,13));
+        System.out.println(new Operations().multiply(25,13));
+        System.out.println(new Operations().multiply(25,13));
+        System.out.println(new Operations().multiply(26,13));
+        System.out.println(new Operations().multiply(27,13));
 
     }
 }
