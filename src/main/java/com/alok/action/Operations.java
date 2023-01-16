@@ -26,6 +26,7 @@ public class Operations {
     public static void main(String[] args) {
         System.out.println(new Operations().add(12,13));
         System.out.println(new Operations().multiply(12,13));
+        
         System.out.println(new Operations().multiply(14,13));
 
     }
