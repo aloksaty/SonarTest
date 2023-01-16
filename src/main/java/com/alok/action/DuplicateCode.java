@@ -23,7 +23,11 @@ public class DuplicateCode {
     }
     public void doSomeThing() {
         System.out.println("Do some thing");
-        System.out.println("code from other branch")
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
+        System.out.println("code from other branch");
+        System.out.println("code from master");
     }
     public void mergeBranchcode() {
         System.out.println("mergeBranchcode");
