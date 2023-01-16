@@ -36,5 +36,10 @@ public class DuplicateCode {
     }
     public void mergeBranchcode() {
         System.out.println("mergeBranchcode");
+        int i =0;
+        while (i==20){
+            System.out.println(i);
+            i++;
+        }
     }
 }
