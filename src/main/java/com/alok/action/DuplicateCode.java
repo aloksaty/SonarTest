@@ -28,5 +28,8 @@ public class DuplicateCode {
     }
     public void mergeBranchcode() {
         System.out.println("mergeBranchcode");
+        for (int i = 0; i <20 ; i++) {
+            System.out.println(i);
+        }
     }
 }
