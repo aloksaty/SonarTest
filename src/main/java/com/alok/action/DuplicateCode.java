@@ -22,6 +22,11 @@ public class DuplicateCode {
         return CODE;
     }
     public void doSomeThing() {
+        int i =0;
+        while (i==20){
+            System.out.println(i);
+            i++;
+        }
         System.out.println("Do some thing");
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
