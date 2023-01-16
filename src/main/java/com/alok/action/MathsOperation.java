@@ -7,5 +7,7 @@ public class MathsOperation {
     public int  total(int a ,int b){
         return a+b;
     }
-
+    public int  totalmaster(int a ,int b){
+        return a+b;
+    }
 }

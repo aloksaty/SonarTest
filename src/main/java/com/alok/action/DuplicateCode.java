@@ -9,10 +9,13 @@ public class DuplicateCode {
     public String getName() {  // Noncompliant
         System.out.println("code from other branch");
         doSomeThing();
+        System.out.println("code from master");
         return CODE;
     }
     public void doSomeThing() {
         System.out.println("Do some thing");
     }
-
+    public void mergeBranchcode() {
+        System.out.println("mergeBranchcode");
+    }
 }
