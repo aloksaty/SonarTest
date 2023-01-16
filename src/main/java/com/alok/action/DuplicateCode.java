@@ -18,6 +18,11 @@ public class DuplicateCode {
         return CODE;
     }
     public void doSomeThing() {
+        int i =0;
+        while (i==20){
+            System.out.println(i);
+            i++;
+        }
         System.out.println("Do some thing");
         System.out.println("code from master");
     }
