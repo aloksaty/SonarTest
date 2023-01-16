@@ -12,7 +12,7 @@ public class DuplicateCode {
         System.out.println("mergeBranchcode");
         doSomeThing();
         System.out.println("code from master");
-        System.out.println("code from master");
+        System.out.println("code from master branch");
         System.out.println("code from master");
         System.out.println("code from master");
         return CODE;
