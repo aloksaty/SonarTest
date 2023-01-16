@@ -19,6 +19,7 @@ public class DuplicateCode {
     }
     public void doSomeThing() {
         System.out.println("Do some thing");
+        System.out.println("code from master");
     }
     public void mergeBranchcode() {
         System.out.println("mergeBranchcode");
