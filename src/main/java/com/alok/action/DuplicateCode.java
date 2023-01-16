@@ -7,6 +7,9 @@ public class DuplicateCode {
         return CODE;
     }
     public String getName() {  // Noncompliant
+        doSomeThing();
+        System.out.println("code from other branch");
+        System.out.println("code from other branch");
         System.out.println("code from other branch");
         doSomeThing();
         System.out.println("code from master");
