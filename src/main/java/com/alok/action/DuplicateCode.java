@@ -16,7 +16,7 @@ public class DuplicateCode {
         System.out.println("code from other branch");
         doSomeThing();
         System.out.println("code from master");
-        System.out.println("code from master");
+        System.out.println("code from master branch");
         System.out.println("code from master");
         System.out.println("code from master");
         return CODE;
