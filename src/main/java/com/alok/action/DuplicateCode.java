@@ -13,5 +13,7 @@ public class DuplicateCode {
     public void doSomeThing() {
         System.out.println("Do some thing");
     }
-
+    public void mergeBranchcode() {
+        System.out.println("mergeBranchcode");
+    }
 }
