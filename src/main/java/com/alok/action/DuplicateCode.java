@@ -2,6 +2,7 @@ package com.alok.action;
 
 public class DuplicateCode {
     private final static String CODE = "bounteous";
+    int name =10;
     public String calculateCode() {
         doSomeThing();
         return CODE;
@@ -31,7 +32,7 @@ public class DuplicateCode {
             i++;
         }
         System.out.println("Do some thing");
-        for (int j = 0; j < 10; j++) {
+        for (int j = 0; j < 120; j++) {
             System.out.println(j);
         }
         System.out.println("code from other branch");
