@@ -3,6 +3,8 @@ package com.alok.action;
 public class DuplicateCode {
     private final static String CODE = "bounteous";
     int name =10;
+    int x =10;
+    
     public String calculateCode() {
         doSomeThing();
         return CODE;
@@ -15,6 +17,7 @@ public class DuplicateCode {
         System.out.println("code from other branch");
         System.out.println("code from other");
         System.out.println("code from other branch");
+
         doSomeThing();
         System.out.println("code from master");
         System.out.println("code from master branch");
@@ -37,6 +40,13 @@ public class DuplicateCode {
         }
         System.out.println("code from other branch");
         System.out.println("code from master");
+        System.out.println("code from master");
+        System.out.println("code from master");
+        System.out.println("code from master");
+        System.out.println("code from master");
+        System.out.println("code from master");
+        System.out.println("code from master");
+
     }
     public void mergeBranchcode() {
         System.out.println("mergeBranchcode");
