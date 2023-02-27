@@ -16,4 +16,15 @@ public class TestOperations {
         Assert.assertEquals(30,new MathsOperation().add(17,13));
 
     }
+    @Test
+    public void addTest(){
+
+        Assert.assertEquals(25,new Operations().add(12,13));
+        Assert.assertEquals(25,new Operations().sum(12,13));
+        Assert.assertEquals(25,new Operations().total(12,13));
+        Assert.assertEquals(25,new Operations().addition(12,13));
+        Assert.assertEquals(25,new MathsOperation().add(12,13));
+        Assert.assertEquals(30,new MathsOperation().add(17,13));
+
+    }
 }
